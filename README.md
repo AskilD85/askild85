@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Angular 8
 - 🌱 I’m currently learning JS, Laravel, English
 - 👯 I’m looking to collaborate on small project in Angular
-- 🤔 I’m looking for help with my English
+- 🤔 I'm looking for a teacher for my English
 - 💬 Ask me about living in Russia 😄
 - 📫 How to reach me: askildar@yandex.ru, @Askild85, http://iam.askild.ru
 - 😄 Pronouns: AskilD
