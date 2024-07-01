@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Angular 8
-- 🌱 I’m currently learning JS, Laravel, English
+- 🔭 I’m currently working on Angular 14+
+- 🌱 I’m currently learning JS, English
 - 👯 I’m looking to collaborate on small project in Angular
 - 🤔 I'm looking for a teacher for my English
 - 💬 Ask me about living in Russia 😄
