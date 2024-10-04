@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on small project in Angular
 - 🤔 I'm looking for a teacher for my English
 - 💬 Ask me about living in Russia 😄
-- 📫 How to reach me: askildar@yandex.ru, @Askild85, http://iam.askild.ru
+- 📫 How to reach me: askildar@yandex.ru, @Askild85, askild85.github.ioaskild85.github.io
 - 😄 Pronouns: AskilD
 - ⚡ Fun fact: I started on IT at the 33.
 
